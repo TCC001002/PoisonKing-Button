@@ -399,3 +399,15 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# ---- PoisonKing 项目专用 ----
+# 本机运行配置（含个人窗口标题/区服信息，切勿提交）
+config.json
+config.json.bak
+# 构建产物
+build/
+release/
+*.exe
+*.pdb
+# Office 临时锁文件
+~$*
