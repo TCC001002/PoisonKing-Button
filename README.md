@@ -1,5 +1,7 @@
 # PoisonKing 按键辅助 v1.0
 
+<img src="src/banner.jpg" width="100%" alt="PoisonKing 按键辅助">
+
 > 多窗口独立按键方案 + 后台连发 · Windows 单文件绿色工具 · 基于 .NET Framework 4.x（WinForms）
 
 每个窗口一套独立的按键方案（各自的热键、各自的多组连发绑定），双开 / 多开时切到别的窗口，连发也不会中断。**不修改游戏文件、不读取游戏内存、不注入 DLL**，只向目标窗口发送标准键盘消息。
